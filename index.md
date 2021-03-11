@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## UMI
 
-You can use the [editor on GitHub](https://github.com/0x0rion/UMI/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+With duct tape, spit and tears. Brought to you by beest intentions…
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+… this is a **Unified Malware Identifier** project (okay, a kick-off).
 
-### Markdown
+Inspired by URI (and somehow [data URI scheme](https://en.wikipedia.org/wiki/Data_URI_scheme)) … the first word has changed. It may be very well **Uniform** (and it is!), but the intention is to **Unify** (we can discuss this :)... and UTF-8. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**A Unified Malware Indicator of Compromise ID**
 
-```markdown
-Syntax highlighted code block
+According to [Picasso](https://www.quora.com/What-did-Picasso-mean-when-he-joked-good-artists-copy-great-artists-steal-Did-he-really-say-this-or-did-someone-else-say-it?share=1): good artists copy, great artists steal. **UMI** is and always will be free, open and arguable (versioned but uniformed) intended for … whatever like ...
 
-# Header 1
-## Header 2
-### Header 3
+Sigma is for log files, what[ ](https://www.snort.org/)[Snort](https://www.snort.org/)/Suri is for network traffic and[ ](https://github.com/VirusTotal/yara)[YARA](https://github.com/VirusTotal/yara) is for files, URI is for ...
 
-- Bulleted
-- List
+History: The initial intention was to replace the stupid (Okay, OK, … unsuitable) crypto-based hashes for ever-changing malware files. Add masks and definitely add regexps. First, always and finally, whatever you can mask or regex you can hash (or not). The UMI stays, files change. Domains change, IPs … (4+2).
 
-1. Numbered
-2. List
+Future: Just a simple ID for [MISP](https://www.misp-project.org/) and other IoC taxis. Finally, for MITRE (:) … indexed by MISP or blockchain, whatever U like. Verifiable, but not trackable (got ya) and no UUID needed, just a chain of trust. Hopefully, one day starting by MITRE, ENISA and whoever steals it. It is free.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/0x0rion/UMI/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Just until we make together something even better … **UTI** — Unified Threat Identifier and **UAI**, a Unified **AI**dentifier. At the moment at [GitHub](https://github.com/0x0rion/UMI), AWS and **UMI.cx** … aka Compromise EXchange … or even [sex](https://www.etymonline.com/word/Sex) if U like it… these 3-letter domains aren't really for a song; and there should also be UTI.cx and UAI.cx) … until this becomes an RFC and ISO.
